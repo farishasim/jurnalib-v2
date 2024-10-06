@@ -1,14 +1,11 @@
 <script setup>
 import SearchBar from './components/SearchBar.vue'
 import JournalCard from './components/JournalCard.vue';
+import {journals} from './journals.js';
 
 import {ref} from 'vue'
 
 let query = '';
-
-const journalList = [
-    ['a', 'Q1', 'publisher', 'country']
-];
 
 const foundJournalList = ref([]);
 
@@ -35,14 +32,14 @@ const foundJournalList = ref([]);
                 <SearchBar 
                     @search="text => {
                       query = text; 
-                      foundJournalList = journalList.filter((e, i) => {
+                      foundJournalList = journals.filter((e, i) => {
                         if (query === '') return false;
                         if (query.includes(' ')) {
                             return e[0].toLowerCase().includes(query.toLowerCase())
                         }
                         let words = e[0].toLowerCase().split(' ');
                         return words.find((word,i) => word.startsWith(query.toLowerCase())) != undefined
-                    })}" />
+                    }).slice(0, 100)}" />
             </div>
 
             <div class="grid grid-cols-1">

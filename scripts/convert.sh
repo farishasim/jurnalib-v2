@@ -1,0 +1,1 @@
+node ./scripts/convert_scimago.js > ./src/journals.js 
