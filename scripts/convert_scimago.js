@@ -8,7 +8,7 @@
 import fs from 'fs'; 
 import csv from 'csv-parser';
 
-const inputFilePath = './data/scimagojr_2022.csv'
+const inputFilePath = './data/scimagojr 2024.csv'
 
 console.log('export const journals = [')
 
@@ -22,10 +22,10 @@ fs.createReadStream(inputFilePath)
         console.log(
             journal, ','
         )
-        //perform the operation
     }
     catch(err) {
         //error handler
+        console.error('Error processing data:', err, 'for journal:', data);
     }
 })
 .on('end',function(){
