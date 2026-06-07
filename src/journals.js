@@ -64708,7 +64708,7 @@ export const journals = [
 [
   'Advanced Engineering Letters',
   'Q2',
-  'The Association of Intellectuals for the Development of Science in Serbia "The Serbian Academic Center" Novi Sad',
+  'The Association of Intellectuals for the Development of Science in Serbia The Serbian Academic Center" Novi Sad"',
   'Serbia'
 ] ,
 [
@@ -69343,7 +69343,7 @@ export const journals = [
 [
   'Applied Engineering Letters',
   'Q2',
-  'The Association of Intellectuals for the Development of Science in Serbia "The Serbian Academic Center" Novi Sad',
+  'The Association of Intellectuals for the Development of Science in Serbia The Serbian Academic Center" Novi Sad"',
   'Serbia'
 ] ,
 [
@@ -71284,9 +71284,9 @@ export const journals = [
 ] ,
 [
   'Advanced Information Systems',
-  undefined,
-  'National Technical University "Kharkiv Polytechnic Institute";Yes;No;0,385;Q3;12;50;99;1375;317;99;3,20;27,50;24,42;0;Ukraine;Eastern Europe;"National Technical University "Kharkiv Polytechnic Institute";"2023-2026',
-  undefined
+  'Q3',
+  'National Technical University Kharkiv Polytechnic Institute""',
+  'Ukraine'
 ] ,
 [
   'Biomedical Physics and Engineering Express',
@@ -71579,9 +71579,9 @@ export const journals = [
 ] ,
 [
   'Nature Conservation Research',
-  undefined,
-  'Fund for Support and Development of Protected Areas "Bear Land";Yes;Yes;0,383;Q2;20;26;109;1580;163;109;1,77;60,77;47,47;0;Russian Federation;Eastern Europe;"Fund for Support and Development of Protected Areas "Bear Land";"2016-2026',
-  undefined
+  'Q2',
+  'Fund for Support and Development of Protected Areas Bear Land""',
+  'Russian Federation'
 ] ,
 [
   'Operations and Supply Chain Management',
@@ -72281,9 +72281,9 @@ export const journals = [
 ] ,
 [
   'Electrical Engineering and Electromechanics',
-  undefined,
-  'National Technical University "Kharkiv Polytechnic Institute";Yes;No;0,378;Q2;17;66;204;2124;427;204;2,03;32,18;24,34;0;Ukraine;Eastern Europe;"National Technical University "Kharkiv Polytechnic Institute";"2019-2026',
-  undefined
+  'Q2',
+  'National Technical University Kharkiv Polytechnic Institute""',
+  'Ukraine'
 ] ,
 [
   'European Physical Journal: Special Topics',
@@ -82266,7 +82266,7 @@ export const journals = [
 [
   'Journal of the Geographical Institute Jovan Cvijic SASA',
   'Q2',
-  'Geographical Institute "Jovan Cviji" of the Serbian Academy of Sciences and Arts',
+  'Geographical Institute Jovan Cviji" of the Serbian Academy of Sciences and Arts"',
   'Serbia'
 ] ,
 [
@@ -82383,9 +82383,9 @@ export const journals = [
 ] ,
 [
   'Istoriya',
-  undefined,
-  'Ltd "Integration: Education and Science";No;No;0,311;Q1;8;456;1190;13929;343;1190;0,32;30,55;45,52;0;Russian Federation;Eastern Europe;"Ltd "Integration: Education and Science";"2018-2025',
-  undefined
+  'Q1',
+  'Ltd Integration: Education and Science""',
+  'Russian Federation'
 ] ,
 [
   'eJournal of eDemocracy and Open Government',
@@ -86227,7 +86227,7 @@ export const journals = [
 [
   'Comprehensive Plant Biology',
   'Q3',
-  'Institute of Botany and Botanical Garden "Jevremovac", University of Belgrade',
+  'Institute of Botany and Botanical Garden Jevremovac", University of Belgrade"',
   'Serbia'
 ] ,
 [ 'EJVES Vascular Forum', 'Q3', 'Elsevier Ltd', 'United Kingdom' ] ,
@@ -87623,12 +87623,7 @@ export const journals = [
   'Scienceline Publication',
   'Turkey'
 ] ,
-[
-  'Eminak',
-  undefined,
-  'Scientific Research Centre "Lukomorie";Yes;No;0,283;Q1;6;56;182;1358;61;179;0,29;24,25;31,17;0;Ukraine;Eastern Europe;"Scientific Research Centre "Lukomorie";"2019-2026',
-  undefined
-] ,
+[ 'Eminak', 'Q1', 'Scientific Research Centre Lukomorie""', 'Ukraine' ] ,
 [ 'Kant-Studien', 'Q1', 'Walter de Gruyter GmbH', 'Germany' ] ,
 [ 'National Identities', 'Q1', 'Routledge', 'United Kingdom' ] ,
 [
@@ -96892,9 +96887,9 @@ export const journals = [
 ] ,
 [
   'Psychological Thought',
-  undefined,
-  'South-West University "Neofit Rilski";Yes;No;0,242;Q3;11;20;71;880;59;65;0,61;44,00;52,27;0;Bulgaria;Eastern Europe;"South-West University "Neofit Rilski";"2017-2025',
-  undefined
+  'Q3',
+  'South-West University Neofit Rilski""',
+  'Bulgaria'
 ] ,
 [
   'Radiologic Technology',
@@ -98050,7 +98045,7 @@ export const journals = [
 [
   'Advances in Electrical and Computer Engineering',
   'Q3',
-  'Universitatea "Stefan cel Mare" din Suceava',
+  'Universitatea Stefan cel Mare" din Suceava"',
   'Romania'
 ] ,
 [
@@ -98585,9 +98580,9 @@ export const journals = [
 ] ,
 [
   'Acta Biologica Universitatis Daugavpiliensis',
-  undefined,
-  'Daugavpils University Academic Press "Saule";No;No;0,235;Q3;4;18;66;644;26;66;0,46;35,78;50,00;0;Latvia;Eastern Europe;"Daugavpils University Academic Press "Saule";"2020-2025',
-  undefined
+  'Q3',
+  'Daugavpils University Academic Press Saule""',
+  'Latvia'
 ] ,
 [
   'Al-Qadisiyah Journal for Engineering Sciences',
@@ -101646,7 +101641,7 @@ export const journals = [
 [
   'Informatika i ee Primeneniya',
   'Q3',
-  'Federal Research Center "Computer Science and Control" of Russian Academy of Sciences',
+  'Federal Research Center Computer Science and Control" of Russian Academy of Sciences"',
   'Russian Federation'
 ] ,
 [
@@ -101763,9 +101758,9 @@ export const journals = [
 ] ,
 [
   'Scientific Visualization',
-  undefined,
-  'National Research Nuclear University "MEPhI";No;No;0,223;Q3;13;54;157;1136;90;157;0,61;21,04;29,41;0;Russian Federation;Eastern Europe;"National Research Nuclear University "MEPhI";"2013-2025',
-  undefined
+  'Q3',
+  'National Research Nuclear University MEPhI""',
+  'Russian Federation'
 ] ,
 [
   'Sudebno-Meditsinskaya Ekspertiza',
@@ -102916,7 +102911,7 @@ export const journals = [
 [
   'Notes on Intuitionistic Fuzzy Sets',
   'Q3',
-  '"Prof. Marin Drinov" Publishing House of Bulgarian Academy of Sciences',
+  'Prof. Marin Drinov" Publishing House of Bulgarian Academy of Sciences"',
   'Bulgaria'
 ] ,
 [
@@ -105340,9 +105335,9 @@ export const journals = [
 ] ,
 [
   'Theoretical and Applied Ecology',
-  undefined,
-  'Publishing House "O-Kratkoe";Yes;No;0,211;Q4;11;92;337;2594;171;336;0,50;28,20;57,71;0;Russian Federation;Eastern Europe;"Publishing House "O-Kratkoe";"2017-2025',
-  undefined
+  'Q4',
+  'Publishing House O-Kratkoe""',
+  'Russian Federation'
 ] ,
 [
   'Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics',
@@ -108854,9 +108849,9 @@ export const journals = [
 ] ,
 [
   'Light and Engineering',
-  undefined,
-  'LLC Editorial of Journal "Light Technik";No;No;0,200;Q4;14;69;239;1391;96;236;0,39;20,16;32,93;0;Russian Federation;Eastern Europe;"LLC Editorial of Journal "Light Technik";"2008-2025',
-  undefined
+  'Q4',
+  'LLC Editorial of Journal Light Technik""',
+  'Russian Federation'
 ] ,
 [
   'Mikologiya I Fitopatologiya',
@@ -109983,9 +109978,9 @@ export const journals = [
 ] ,
 [
   'Historia Constitucional',
-  undefined,
-  'Seminario de Historia Constitucional "Martinez Marina";Yes;Yes;0,196;Q2;8;29;114;2182;29;112;0,29;75,24;22,86;0;Spain;Western Europe;"Seminario de Historia Constitucional "Martinez Marina";"2011-2025',
-  undefined
+  'Q2',
+  'Seminario de Historia Constitucional Martinez Marina""',
+  'Spain'
 ] ,
 [
   'Journal of Arab and Muslim Media Research',
@@ -110434,7 +110429,7 @@ export const journals = [
 [
   'Contributii Botanice',
   'Q4',
-  'Babes-Bolyai University, "Alexandru Borza" Botanic Garden',
+  'Babes-Bolyai University, Alexandru Borza" Botanic Garden"',
   'Romania'
 ] ,
 [ 'Educacao e Pesquisa', 'Q4', 'Emerson de Pietri', 'Brazil' ] ,
@@ -118322,9 +118317,9 @@ export const journals = [
 ] ,
 [
   'Klinichescheskaya Laboratornaya Diagnostika',
-  undefined,
-  'Joint Stock Company "EKOlab";No;No;0,172;Q3;15;119;297;3550;176;297;0,46;29,83;72,05;0;Russian Federation;Eastern Europe;"Joint Stock Company "EKOlab";"1993-2026',
-  undefined
+  'Q3',
+  'Joint Stock Company EKOlab""',
+  'Russian Federation'
 ] ,
 [
   'Pediatric Traumatology, Orthopaedics and Reconstructive Surgery',
@@ -123268,9 +123263,9 @@ export const journals = [
 ] ,
 [
   'Librosdelacorte.es',
-  undefined,
-  'Instituto Universitario "La Corte en Europa";Yes;Yes;0,158;Q1;4;32;91;1252;17;91;0,22;39,13;70,37;0;Spain;Western Europe;"Instituto Universitario "La Corte en Europa";"2019-2025',
-  undefined
+  'Q1',
+  'Instituto Universitario La Corte en Europa""',
+  'Spain'
 ] ,
 [ 'Onoma', 'Q1', 'Mega Publishing House', 'Belgium' ] ,
 [
@@ -130442,7 +130437,7 @@ export const journals = [
 [ 'Archaeologia Adriatica', 'Q3', 'University of Zadar', 'Croatia' ] ,
 [
   'ARTEKS : Jurnal Teknik Arsitektur',
-  'Q3',
+  'Q3, Sinta 1',
   'Program Studi Arsitektur Fakultas Teknik Universitas Katolik Widya Mandira',
   'Indonesia'
 ] ,
@@ -136837,7 +136832,7 @@ export const journals = [
 [
   'Codrul Cosminului',
   'Q3',
-  'Universitatea "Stefan cel Mare" din Suceava',
+  'Universitatea Stefan cel Mare" din Suceava"',
   'Romania'
 ] ,
 [ 'Culture, Theory and Critique', 'Q3', 'Routledge', 'United Kingdom' ] ,
@@ -137534,7 +137529,7 @@ export const journals = [
 [
   'Clinical and Preventive Medicine',
   'Q4',
-  'State Institution of Science "Research and Practical Center of Preventive and Clinical Medicine" State Administration Department',
+  'State Institution of Science Research and Practical Center of Preventive and Clinical Medicine" State Administration Department"',
   'Ukraine'
 ] ,
 [
@@ -138718,7 +138713,7 @@ export const journals = [
 [
   'Vestnik Sovremennoi Klinicheskoi Mediciny',
   'Q4',
-  'LLC "IMC" Modern Clinical Medicine',
+  'LLC IMC" Modern Clinical Medicine"',
   'Russian Federation'
 ] ,
 [
@@ -143509,9 +143504,9 @@ export const journals = [
 [ 'AusArt', 'Q3', 'UPV/EHU Press', 'Spain' ] ,
 [
   "Boletin del Instituto de Historia Argentina y Americana 'Dr. Emilio Ravignani'",
-  undefined,
-  'Institute of Argentine and American History "Dr. Emilio Ravignani";Yes;Yes;0,115;Q3;5;9;91;307;5;81;0,07;34,11;44,44;0;Argentina;Latin America;"Institute of Argentine and American History "Dr. Emilio Ravignani";"1980, 2001, 2019-2026',
-  undefined
+  'Q3',
+  'Institute of Argentine and American History Dr. Emilio Ravignani""',
+  'Argentina'
 ] ,
 [
   'British Journal of Canadian Studies',
@@ -144636,9 +144631,9 @@ export const journals = [
 ] ,
 [
   'Mediterranea: Ricerche Storiche',
-  undefined,
-  'Associazione no profit "Mediterranea";Yes;Yes;0,113;Q3;8;18;103;1891;19;99;0,12;105,06;47,37;0;Italy;Western Europe;"Associazione no profit "Mediterranea";"2009-2025',
-  undefined
+  'Q3',
+  'Associazione no profit Mediterranea""',
+  'Italy'
 ] ,
 [
   'Nineteenth-Century French Studies',
@@ -149723,7 +149718,7 @@ export const journals = [
 [
   'Annales Universitatis Apulensis. Series Historica',
   'Q3',
-  'Universitatea "1 Decembrie 1918" Alba Iulia',
+  'Universitatea 1 Decembrie 1918" Alba Iulia"',
   'Romania'
 ] ,
 [
