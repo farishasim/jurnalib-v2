@@ -8,7 +8,7 @@
 import fs from 'fs'; 
 import csv from 'csv-parser';
 
-const inputFilePath = './data/scimagojr 2024.csv'
+const inputFilePath = './data/scimagojr.csv'
 
 console.log('export const journals = [')
 
