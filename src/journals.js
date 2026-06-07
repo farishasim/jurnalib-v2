@@ -130437,7 +130437,7 @@ export const journals = [
 [ 'Archaeologia Adriatica', 'Q3', 'University of Zadar', 'Croatia' ] ,
 [
   'ARTEKS : Jurnal Teknik Arsitektur',
-  'Q3, Sinta 1',
+  'Q3, S1',
   'Program Studi Arsitektur Fakultas Teknik Universitas Katolik Widya Mandira',
   'Indonesia'
 ] ,
